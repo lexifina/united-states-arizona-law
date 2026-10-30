@@ -1,0 +1,3 @@
+# 8. Permanent state school fund; source; apportionment of state funds
+Section 8. A. A permanent state school fund for the use of the common schools shall be derived from the sale of public school lands or other public lands specified in the enabling act approved June 20, 1910; from all estates or distributive shares of estates that may escheat to the state; from all unclaimed shares and dividends of any corporation incorporated under the laws of Arizona; and from all gifts, devises, or bequests made to the state for general educational purposes.
+B. The rental derived from school lands, with such other funds as may be provided by law shall be apportioned only for common and high school education in Arizona, and in such manner as may be prescribed by law.

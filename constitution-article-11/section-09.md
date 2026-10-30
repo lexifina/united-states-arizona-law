@@ -1,0 +1,2 @@
+# 9. County school fund; size of fund; free schools
+Section 9. The amount of this apportionment shall become a part of the county school fund, and the legislature shall enact such laws as will provide for increasing the county fund sufficiently to maintain all the public schools of the county for a minimum term of six months in every school year. The laws of the state shall enable cities and towns to maintain free high schools, industrial schools, and commercial schools.

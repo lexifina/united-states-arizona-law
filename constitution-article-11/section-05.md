@@ -1,0 +1,2 @@
+# 5. Regents of university and other governing boards; appointments by governor; membership of governor on board of regents
+Section 5. The regents of the university, and the governing boards of other state educational institutions, shall be appointed by the governor with the consent of the senate in the manner prescribed by law, except that the governor shall be, ex-officio, a member of the board of regents of the university.

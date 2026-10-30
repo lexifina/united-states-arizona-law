@@ -1,0 +1,2 @@
+# 6. Admission of students of both sexes to state educational institutions; tuition; common school system
+Section 6. The university and all other state educational institutions shall be open to students of both sexes, and the instruction furnished shall be as nearly free as possible. The legislature shall provide for a system of common schools by which a free school shall be established and maintained in every school district for at least six months in each year, which school shall be open to all pupils between the ages of six and twenty-one years.
