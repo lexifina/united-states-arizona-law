@@ -1,0 +1,2 @@
+# 1. Composition of militia
+Section 1. The militia of the state of Arizona shall consist of all capable citizens of the state between the ages of eighteen and forty-five years, and of those between said ages who shall have declared their intention to become citizens of the United States, residing therein, subject to such exemptions as now exist, or as may hereafter be created, by the laws of the United States or of this state.
