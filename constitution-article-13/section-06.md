@@ -1,0 +1,2 @@
+# 6. Franchises; restrictions
+Section 6. No grant, extension, or renewal of any franchise or other use of the streets, alleys, or other public grounds, or ways, of any municipality shall divest the state or any of its subdivisions of its or their control and regulation of such use and enjoyment; nor shall the power to regulate charges for public services be surrendered; and no exclusive franchise shall ever be granted.
