@@ -1,0 +1,2 @@
+# 2. Unauthorized disposition of land or proceeds as breach of trust
+Section 2. Disposition of any of said lands, or of any money or thing of value directly or indirectly derived therefrom, for any object other than that for which such particular lands (or the lands from which such money or thing of value shall have been derived) were granted or confirmed, or in any manner contrary to the provisions of the said Enabling Act, shall be deemed a breach of trust.

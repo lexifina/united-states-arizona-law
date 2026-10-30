@@ -1,0 +1,2 @@
+# 4. Sale or other disposal; appraisal; minimum price; credit; passing of title
+Section 4. All lands, lease-holds, timber, and other products of land, before being offered, shall be appraised at their true value, and no sale or other disposal thereof shall be made for a consideration less than the value so ascertained, nor in any case less than the minimum price hereinafter fixed, nor upon credit unless accompanied by ample security, and the legal title shall not be deemed to have passed until the consideration shall have been paid.
