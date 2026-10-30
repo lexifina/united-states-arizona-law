@@ -1,0 +1,2 @@
+# 4. County officers; duties, powers, and qualifications; salaries
+Section 4. The duties, powers, and qualifications of such officers shall be as prescribed by law. The board of supervisors of each county is hereby empowered to fix salaries for all county and precinct officers within such county for whom no compensation is provided by law, and the salaries so fixed shall remain in full force and effect until changed by general law.
