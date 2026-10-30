@@ -1,0 +1,2 @@
+# 1. "Corporation" defined; right to sue and suability
+Section 1. The term "corporation," as used in this article, shall be construed to include all associations and joint stock companies having any powers or privileges of corporations not possessed by individuals or co-partnerships, and all corporations shall have the right to sue and shall be subject to be sued, in all courts, in like cases as natural persons.

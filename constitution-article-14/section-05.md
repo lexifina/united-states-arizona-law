@@ -1,0 +1,2 @@
+# 5. Foreign corporations; transaction of business
+Section 5. No corporation organized outside of the limits of this state shall be allowed to transact business within this state on more favorable conditions than are prescribed by law for similar corporations organized under the laws of this state; and no foreign corporation shall be permitted to transact business within this state unless said foreign corporation is by the laws of the country, state, or territory under which it is formed permitted to transact a like business in such country, state, or territory.

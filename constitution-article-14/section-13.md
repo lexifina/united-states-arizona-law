@@ -1,0 +1,2 @@
+# 13. Want of legal organization as a defense
+Section 13. No persons acting as a corporation under the laws of Arizona shall be permitted to set up, or rely upon, the want of a legal organization as a defense to any action which may be brought against them as a corporation, nor shall any person or persons who may be sued on a contract now or hereafter made with such corporation, or sued for any injury now or hereafter done to its property, or for a wrong done to its interests, be permitted to rely upon such want of legal organization in his or their defense.

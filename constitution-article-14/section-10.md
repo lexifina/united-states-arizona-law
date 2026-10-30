@@ -1,0 +1,2 @@
+# 10. Elections for directors or managers
+Section 10. In all elections for directors or managers of any corporation, each shareholder shall have the right to cast as many votes in the aggregate as he shall be entitled to vote in said company under its charter multiplied by the number of directors or managers to be elected at such election; and each shareholder may cast the whole number of votes, either in person or by proxy, for one candidate, or distribute such votes among two or more such candidates; and such directors or managers shall not be elected otherwise.

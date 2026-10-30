@@ -1,0 +1,2 @@
+# 16. Records, books, and files; visitorial and inquisitorial powers of state
+Section 16. The records, books, and files of all public service corporations, state banks, building and loan associations, trust, insurance, and guaranty companies shall be at all times liable and subject to the full visitorial and inquisitorial powers of the state, notwithstanding the immunities and privileges secured in the declaration of rights of this Constitution to persons, inhabitants, and citizens of this state.
