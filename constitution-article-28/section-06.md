@@ -1,0 +1,5 @@
+# 6. Standing; notification of attorney general; recovery of costs
+Section 6. A. A person who resides or does business in this state may file a civil action for relief from any official action that violates this article in a manner that causes injury to the person.
+B. A person who resides or does business in this state and who contends that this article is not being implemented or enforced may file a civil action to determine if the failure or inaction complained of is a violation of this article and for injunctive or mandatory relief.
+C. A person shall not file an action under this section unless the person has notified the attorney general of the alleged violation and the attorney general or other appropriate representative of government has not provided appropriate relief within a reasonable time under the circumstances. An action filed under this section may be in addition to or in lieu of any action by officers of this state, including the attorney general.
+D. A person who files and is successful in an action under this section may be awarded all costs expended or incurred in the action, including reasonable attorney fees.
