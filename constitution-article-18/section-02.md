@@ -1,0 +1,2 @@
+# 2. Child labor
+Section 2. No child under the age of fourteen years shall be employed in any gainful occupation at any time during the hours in which the public schools of the district in which the child resides are in session; nor shall any child under sixteen years of age be employed underground in mines, or in any occupation injurious to health or morals or hazardous to life or limb; nor for more than eight hours in any day.

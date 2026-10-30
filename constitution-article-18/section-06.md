@@ -1,0 +1,2 @@
+# 6. Recovery of damages for injuries
+Section 6. The right of action to recover damages for injuries shall never be abrogated, and the amount recovered shall not be subject to any statutory limitation, except that a crime victim is not subject to a claim for damages by a person who is harmed while the person is attempting to engage in, engaging in or fleeing after having engaged in or attempted to engage in conduct that is classified as a felony offense.
