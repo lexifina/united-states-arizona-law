@@ -1,0 +1,4 @@
+# 3. Annual tax; purposes; amount; tax laws; payment of taxes into state treasury
+Section 3. The legislature shall provide by law for an annual tax sufficient, with other sources of revenue, to defray the necessary ordinary expenses of the state for each fiscal year. And for the purpose of paying the state debt, if there be any, the legislature shall provide for levying an annual tax sufficient to pay the annual interest and the principal of such debt within twenty-five years from the final passage of the law creating the debt.
+No tax shall be levied except in pursuance of law, and every law imposing a tax shall state distinctly the object of the tax, to which object only it shall be applied.
+All taxes levied and collected for state purposes shall be paid into the state treasury in money only.

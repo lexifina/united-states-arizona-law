@@ -1,0 +1,2 @@
+# 12. Authority to provide for levy and collection of license and other taxes
+Section 12. The law-making power shall have authority to provide for the levy and collection of license, franchise, gross revenue, excise, income, collateral and direct inheritance, legacy, and succession taxes, also graduated income taxes, graduated collateral and direct inheritance taxes, graduated legacy and succession taxes, stamp, registration, production, or other specific taxes.

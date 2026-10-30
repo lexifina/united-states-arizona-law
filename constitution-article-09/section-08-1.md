@@ -1,0 +1,3 @@
+# 8.1. Unified school district debt limit
+Section 8.1. (1) Notwithstanding the provisions of section 8 of this article a unified school district may become indebted to an amount not exceeding thirty per cent of the taxable property of the school district, as shown by the last assessment roll thereof. For purposes of this section, a unified school district is a single school district which provides education to the area within the district for grades kindergarten through twelve and which area is not subject to taxation by any other common or high school district.
+(2) The provisions of section 18, subsections (3), (4), (5) and (6) of this article shall not apply to this section.

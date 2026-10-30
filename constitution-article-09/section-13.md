@@ -1,0 +1,4 @@
+# 13. Inventory, materials and products of manufacturers; production livestock and animals; tax exemption
+Section 13. No tax shall be levied on:
+1. Raw or unfinished materials, unassembled parts, work in process or finished products, constituting the inventory of a manufacturer or manufacturing establishment located within the state and principally engaged in the fabrication, production and manufacture of products, wares and articles for use, from raw or prepared materials, imparting thereto new forms, qualities, properties and combinations, which materials, parts, work in process or finished products are not consigned or billed to any other party.
+2. Livestock, poultry, aquatic animals and honeybees owned by a person who is principally engaged in agricultural production, subject to such conditions as may be prescribed by law.

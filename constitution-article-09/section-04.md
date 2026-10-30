@@ -1,0 +1,2 @@
+# 4. Fiscal year; annual statement of receipts and expenditures; deficit
+Section 4. The fiscal year shall commence on the first day of July in each year. An accurate statement of the receipts and expenditures of the public money shall be published annually, in such manner as shall be provided by law. Whenever the expenses of any fiscal year shall exceed the income, the legislature may provide for levying a tax for the ensuing fiscal year sufficient, with other sources of income, to pay the deficiency, as well as the estimated expenses of the ensuing fiscal year.
