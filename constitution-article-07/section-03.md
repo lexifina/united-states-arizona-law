@@ -1,0 +1,2 @@
+# 3. Voting residence of federal employees and certain others
+Section 3. For the purpose of voting, no person shall be deemed to have gained or lost a residence by reason of being present or absent while employed in the service of the United States, or while a student at any institution of learning, or while kept at any institution or other shelter at public expense, or while confined in any public jail or prison.
