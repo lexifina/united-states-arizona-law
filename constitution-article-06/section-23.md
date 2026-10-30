@@ -1,0 +1,2 @@
+# 23. Superior court; clerk
+Section 23. There shall be in each county a clerk of the superior court. The clerk shall be elected by the qualified electors of his county at the general election and shall hold office for a term of four years from and after the first Monday in January next succeeding his election. The clerk shall have such powers and perform such duties as may be provided by law or by rule of the supreme court or superior court. He shall receive such compensation as may be provided by law.

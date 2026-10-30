@@ -1,0 +1,2 @@
+# 11. Superior court; presiding judges; duties
+Section 11. There shall be in each county a presiding judge of the superior court. In each county in which there are two or more judges, the supreme court shall appoint one of such judges presiding judge. Presiding judges shall exercise administrative supervision over the superior court and judges thereof in their counties, and shall have such other duties as may be provided by law or by rules of the supreme court.

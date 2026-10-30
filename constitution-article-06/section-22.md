@@ -1,0 +1,2 @@
+# 22. Superior and other courts; qualifications of judges
+Section 22. Judges of the superior court, intermediate appellate courts or courts inferior to the superior court having jurisdiction in civil cases of one thousand dollars or more, exclusive of interest and costs, established by law under the provisions of section 1 of this article, shall be at least thirty years of age, of good moral character and admitted to the practice of law in and a resident of the state for five years next preceding their taking office.

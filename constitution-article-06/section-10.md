@@ -1,0 +1,2 @@
+# 10. Superior court; number of judges
+Section 10. There shall be in each county at least one judge of the superior court. There shall be in each county such additional judges as may be provided by law, but not exceeding one judge for each thirty thousand inhabitants or majority fraction thereof. The number of inhabitants in a county for purposes of this section may be determined by census enumeration or by such other method as may be provided by law.

@@ -1,0 +1,3 @@
+# 26. Oath of office
+Section 26. Each justice, judge and justice of the peace shall, before entering upon the duties of his office, take and subscribe an oath that he will support the Constitution of the United States and the Constitution of the State of Arizona, and that he will faithfully and impartially discharge the duties of his office to the best of his ability.
+The oath of all judges of courts inferior to the superior court and the oath of justices of the peace shall be filed in the office of the county recorder, and the oath of all other justices and judges shall be filed in the office of the secretary of state.
