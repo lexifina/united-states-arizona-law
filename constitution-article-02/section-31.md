@@ -1,0 +1,2 @@
+# 31. Damages for death or personal injuries
+Section 31. No law shall be enacted in this state limiting the amount of damages to be recovered for causing the death or injury of any person, except that a crime victim is not subject to a claim for damages by a person who is harmed while the person is attempting to engage in, engaging in or fleeing after having engaged in or attempted to engage in conduct that is classified as a felony offense.

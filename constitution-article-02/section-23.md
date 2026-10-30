@@ -1,0 +1,2 @@
+# 23. Trial by jury; number of jurors specified by law
+Section 23. The right of trial by jury shall remain inviolate. Juries in criminal cases in which a sentence of death or imprisonment for thirty years or more is authorized by law shall consist of twelve persons. In all criminal cases the unanimous consent of the jurors shall be necessary to render a verdict. In all other cases, the number of jurors, not less than six, and the number required to render a verdict, shall be specified by law.
