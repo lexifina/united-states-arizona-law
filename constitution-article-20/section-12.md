@@ -1,0 +1,2 @@
+# Twelfth. Lands granted to state
+Twelfth. The state of Arizona and its people hereby consent to all and singular the provisions of the enabling act approved June 20, 1910, concerning the lands thereby granted or confirmed to the state, the terms and conditions upon which said grants and confirmations are made, and the means and manner of enforcing such terms and conditions, all in every respect and particular as in the aforesaid enabling act provided.
