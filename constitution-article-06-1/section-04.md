@@ -1,0 +1,3 @@
+# 4. Retirement of judge
+Section 4. A. On recommendation of the commission on judicial conduct, the supreme court may retire a judge for disability that seriously interferes with the performance of his duties and is or is likely to become permanent, and may censure, suspend without pay or remove a judge for action by him that constitutes wilful misconduct in office, wilful and persistent failure to perform his duties, habitual intemperance or conduct prejudicial to the administration of justice that brings the judicial office into disrepute.
+B. A judge retired by the supreme court shall be considered to have retired voluntarily. A judge removed by the supreme court is ineligible for judicial office in this state.
