@@ -1,0 +1,2 @@
+# 6. Territorial, district, county, and precinct officers
+Section 6. All Territorial, district, county, and precinct officers who may be in office at the time of the admission of the State into the Union shall hold their respective offices until their successors shall have qualified, and the official bonds of all such officers shall continue in full force and effect while such officers remain in office.

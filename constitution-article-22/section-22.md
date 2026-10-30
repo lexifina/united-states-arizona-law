@@ -1,0 +1,2 @@
+# 22. Judgments of death
+Section 22. The judgment of death shall be inflicted by administering an intravenous injection of a substance or substances in a lethal quantity sufficient to cause death except that defendants sentenced to death for offenses committed prior to the effective date of the amendment to this section shall have the choice of either lethal injection or lethal gas. The lethal injection or lethal gas shall be administered under such procedures and supervision as prescribed by law. The execution shall take place within the limits of the state prison.

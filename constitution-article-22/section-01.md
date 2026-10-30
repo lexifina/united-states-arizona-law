@@ -1,0 +1,2 @@
+# 1. Existing rights, actions, suits, proceedings, contracts, claims, or demands; process
+Section 1. No rights, actions, suits, proceedings, contracts, claims, or demands, existing at the time of the admission of this State into the Union, shall be affected by a change in the form of government, from Territorial to State, but all shall continue as if no change had taken place; and all process which may have been issued under the authority of the Territory of Arizona, previous to its admission into the Union, shall be as valid as if issued in the name of the State.
