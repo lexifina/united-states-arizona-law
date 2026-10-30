@@ -1,0 +1,2 @@
+# 12. Procedure on bills; approval or disapproval by governor
+Section 12. Every bill shall be read by sections on three different days, unless in case of emergency, two-thirds of either house deem it expedient to dispense with this rule. The vote on the final passage of any bill or joint resolution shall be taken by ayes and nays on roll call. Every measure when finally passed shall be presented to the governor for his approval or disapproval.

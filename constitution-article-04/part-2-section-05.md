@@ -1,0 +1,2 @@
+# 5. Ineligibility of members of legislature to other public offices
+Section 5. No member of the legislature, during the term for which he shall have been elected or appointed shall be eligible to hold any other office or be otherwise employed by the state of Arizona or, any county or incorporated city or town thereof. This prohibition shall not extend to the office of school trustee, nor to employment as a teacher or instructor in the public school system.

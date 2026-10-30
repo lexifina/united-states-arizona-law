@@ -1,0 +1,2 @@
+# 23. Passes and purchase of transportation by public officers;inapplication to national guard
+Section 23. It shall not be lawful for any person holding public office in this state to accept or use a pass or to purchase transportation from any railroad or other corporation, other than as such transportation may be purchased by the general public; Provided, that this shall not apply to members of the national guard of Arizona traveling under orders. The legislature shall enact laws to enforce this provision.

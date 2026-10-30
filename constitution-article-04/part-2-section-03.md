@@ -1,0 +1,2 @@
+# 3. Sessions of legislature; special sessions; limitation of subjects for consideration
+Section 3. The sessions of the legislature shall be held annually at the capitol of the state, and shall commence on the second Monday of January of each year. The governor may call a special session, whenever in his judgment it is advisable. In calling a special session, the governor shall specify the subjects to be considered, and at such special session no laws shall be enacted except such as relate to the subjects mentioned in the call.

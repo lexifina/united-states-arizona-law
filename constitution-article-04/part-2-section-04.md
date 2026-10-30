@@ -1,0 +1,2 @@
+# 4. Disqualification for membership in Legislature
+Section 4. No person holding any public office of profit or trust under the authority of the United States, or of this state, shall be a member of the legislature; Provided, that appointments in the state militia and the offices of notary public, justice of the peace, United States commissioner, and postmaster of the fourth class, shall not work disqualification for membership within the meaning of this section.

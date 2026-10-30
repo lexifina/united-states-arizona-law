@@ -1,0 +1,2 @@
+# 9. Quorum; compelling attendance; adjournment
+Section 9. The majority of the members of each house shall constitute a quorum to do business, but a smaller number may meet, adjourn from day to day, and compel the attendance of absent members, in such manner and under such penalties as each house may prescribe. Neither house shall adjourn for more than three days, nor to any place other than that in which it may be sitting, without the consent of the other.
