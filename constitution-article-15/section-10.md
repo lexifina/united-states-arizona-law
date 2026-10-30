@@ -1,0 +1,2 @@
+# 10. Railways as public highways; other corporations as common carriers
+Section 10. Railways heretofore constructed, or that may hereafter be constructed, in this state, are hereby declared public highways and all railroads are declared to be common carriers and subject to control by law. All electric, transmission, telegraph, telephone, or pipeline corporations, for the transportation of electricity, messages, water, oil, or other property for profit, are declared to be common carriers and subject to control by law.

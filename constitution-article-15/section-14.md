@@ -1,0 +1,2 @@
+# 14. Value of property of public service corporations
+Section 14. The corporation commission shall, to aid it in the proper discharge of its duties, ascertain the fair value of the property within the state of every public service corporation doing business therein; and every public service corporation doing business within the state shall furnish to the commission all evidence in its possession, and all assistance in its power, requested by the commission in aid of the determination of the value of the property within the state of such public service corporation.

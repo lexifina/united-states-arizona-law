@@ -1,0 +1,2 @@
+# 8. Transportation by connecting carriers
+Section 8. Every public service corporation doing a transportation business within the state shall receive and transport, without delay or discrimination, cars loaded or empty, property, or passengers delivered to it by any other public service corporation doing a similar business, and deliver cars, loaded or empty, without delay or discrimination, to other transportation corporations, under such regulations as shall be prescribed by the corporation commission, or by law.

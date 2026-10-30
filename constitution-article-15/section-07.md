@@ -1,0 +1,2 @@
+# 7. Connecting and intersecting lines of transportation and communications corporations
+Section 7. Every public service corporation organized or authorized under the laws of the state to do any transportation or transmission business within the state shall have the right to construct and operate lines connecting any points within the state, and to connect at the state boundaries with like lines; and every such corporation shall have the right with any of its lines to cross, intersect, or connect with, any lines of any other public service corporation.

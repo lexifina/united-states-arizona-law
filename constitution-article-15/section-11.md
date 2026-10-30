@@ -1,0 +1,2 @@
+# 11. Movable property as personal property; liability of property to attachment, execution and sale
+Section 11. The rolling stock and all other movable property belonging to any public service corporation in this state, shall be considered personal property, and its real and personal property, and every part thereof, shall be liable to attachment, execution, and sale in the same manner as the property of individuals; and the law-making power shall enact no laws exempting any such property from attachment, execution, or sale.

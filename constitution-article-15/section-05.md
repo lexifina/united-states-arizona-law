@@ -1,0 +1,3 @@
+# 5. Power to issue certificates of incorporation and licenses
+Section 5. The corporation commission shall have the sole power to issue certificates of incorporation to companies organizing under the laws of this state, and to issue licenses to foreign corporations to do business in this state, except as insurers, as may be prescribed by law.
+Domestic and foreign insurers shall be subject to licensing, control and supervision by a department of insurance as prescribed by law. A director of the department of insurance shall be appointed by the governor with the consent of the senate in the manner prescribed by law for a term which may be prescribed by law.
