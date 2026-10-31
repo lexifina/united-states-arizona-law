@@ -1,0 +1,13 @@
+# License
+
+The text of the Arizona Constitution and the Arizona Revised Statutes in this repository comes from the Arizona
+Legislature (https://www.azleg.gov). The text of the law carries no copyright: under the government edicts doctrine (Georgia v. Public.Resource.Org, Inc., 590 U.S. 255 (2020)) nobody owns works made by legislators in their official capacity, which covers the statutes and the Constitution the Arizona Legislature publishes. The Legislature's site prints "All Rights Reserved" for the site; that
+notice cannot reach the text of the law. Neither the Arizona Legislature nor the Arizona Legislative Council
+endorses this repository.
+
+Changes made by Lexifina: each section was converted to one Markdown file, one paragraph per line; curly quotes were
+made straight and spacing was normalised; the words of the law were not changed.
+
+The arrangement of the history (which commits exist, their dates and authors), the commit messages, the tools and the
+documentation are © Lexifina, released under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/

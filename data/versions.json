@@ -1,0 +1,1223 @@
+{
+ "country": "US-AZ",
+ "acts": [
+  {
+   "slug": "constitution-preamble",
+   "short": "Ariz. Const. preamble",
+   "title": "Constitution of the State of Arizona, Preamble",
+   "url": "https://www.azleg.gov/const/preamble.htm",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.azleg.gov/const/preamble.htm",
+     "sha256": "6dae8a76908af634f0bf67133b62c2a925069c980ac74b77e4114d77deda3ebc"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-01",
+   "short": "Ariz. Const. art. 1",
+   "title": "Constitution of the State of Arizona, Article 1 (State boundaries)",
+   "url": "https://www.azleg.gov/constitution/?article=1",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.azleg.gov/constitution/?article=1",
+     "sha256": "17adc12d79773018f8153bb5803cd19e65541256a80e8b4e0bb65aa38a1c0f56"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-02",
+   "short": "Ariz. Const. art. 2",
+   "title": "Constitution of the State of Arizona, Article 2 (Declaration of rights)",
+   "url": "https://www.azleg.gov/constitution/?article=2",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 39,
+     "source_url": "https://www.azleg.gov/constitution/?article=2",
+     "sha256": "22095a327d92d2371d29f3f19528d5899ee585ef86c4a5306999694aee25f2d8"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-03",
+   "short": "Ariz. Const. art. 3",
+   "title": "Constitution of the State of Arizona, Article 3 (Distribution of powers)",
+   "url": "https://www.azleg.gov/constitution/?article=3",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.azleg.gov/constitution/?article=3",
+     "sha256": "62a8983869646389a4652c7b262c7acb74bcfdcc2dced6cad24c7ad202474abd"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-04",
+   "short": "Ariz. Const. art. 4",
+   "title": "Constitution of the State of Arizona, Article 4 (Legislative department)",
+   "url": "https://www.azleg.gov/constitution/?article=4",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 27,
+     "source_url": "https://www.azleg.gov/constitution/?article=4",
+     "sha256": "601031119dff741ba79738540975e252930c0c49e97e4a45f8c6b29fa0a8f7cd"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-05",
+   "short": "Ariz. Const. art. 5",
+   "title": "Constitution of the State of Arizona, Article 5 (Executive department)",
+   "url": "https://www.azleg.gov/constitution/?article=5",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 13,
+     "source_url": "https://www.azleg.gov/constitution/?article=5",
+     "sha256": "7ea3eb84f5a19a69171314bd0dc4731499a70f4969ad7449d88635c74e207906"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-06",
+   "short": "Ariz. Const. art. 6",
+   "title": "Constitution of the State of Arizona, Article 6 (Judicial department)",
+   "url": "https://www.azleg.gov/constitution/?article=6",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 41,
+     "source_url": "https://www.azleg.gov/constitution/?article=6",
+     "sha256": "7c0a3df71937a991546879ad4ea1043e38e0525c28f89efeae02bc5c7ada93fa"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-06-1",
+   "short": "Ariz. Const. art. 6.1",
+   "title": "Constitution of the State of Arizona, Article 6.1 (Commission on judicial conduct)",
+   "url": "https://www.azleg.gov/constitution/?article=6.1",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.azleg.gov/constitution/?article=6.1",
+     "sha256": "f3d31d253f339bb46793f3eaf13f9656832527286ed43c077ce7039b2edff21b"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-07",
+   "short": "Ariz. Const. art. 7",
+   "title": "Constitution of the State of Arizona, Article 7 (Suffrage and elections)",
+   "url": "https://www.azleg.gov/constitution/?article=7",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 18,
+     "source_url": "https://www.azleg.gov/constitution/?article=7",
+     "sha256": "ba04ae8e8160fc2d562ae06ddff8de8cef4438acd25392304c51ee20a8118d15"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-08",
+   "short": "Ariz. Const. art. 8",
+   "title": "Constitution of the State of Arizona, Article 8 (Removal from office)",
+   "url": "https://www.azleg.gov/constitution/?article=8",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 8,
+     "source_url": "https://www.azleg.gov/constitution/?article=8",
+     "sha256": "ad7530a957bcd24c1a612a18f35a612246e0b6a60bd9f6946fd9d840b259e7b8"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-09",
+   "short": "Ariz. Const. art. 9",
+   "title": "Constitution of the State of Arizona, Article 9 (Public debt, revenue, and taxation)",
+   "url": "https://www.azleg.gov/constitution/?article=9",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 27,
+     "source_url": "https://www.azleg.gov/constitution/?article=9",
+     "sha256": "45030a81c4f116e7610541fd70dddded53d8cb9694a88f6ee812716cfcbcac69"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-10",
+   "short": "Ariz. Const. art. 10",
+   "title": "Constitution of the State of Arizona, Article 10 (State and school lands)",
+   "url": "https://www.azleg.gov/constitution/?article=10",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 12,
+     "source_url": "https://www.azleg.gov/constitution/?article=10",
+     "sha256": "54de06cb9bd9e77b304d063bed959bc0ae403cc11d5e964d05a8b77b27f34f89"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-11",
+   "short": "Ariz. Const. art. 11",
+   "title": "Constitution of the State of Arizona, Article 11 (Education)",
+   "url": "https://www.azleg.gov/constitution/?article=11",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 11,
+     "source_url": "https://www.azleg.gov/constitution/?article=11",
+     "sha256": "7747331f8a65264a9807cac4e3108a71636a2eb7b36d96f5b5545150b81a151c"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-12",
+   "short": "Ariz. Const. art. 12",
+   "title": "Constitution of the State of Arizona, Article 12 (Counties)",
+   "url": "https://www.azleg.gov/constitution/?article=12",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.azleg.gov/constitution/?article=12",
+     "sha256": "75539e681416e274372e1f17c4bac7fd311a7cebcc67de033ed2d71494597387"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-13",
+   "short": "Ariz. Const. art. 13",
+   "title": "Constitution of the State of Arizona, Article 13 (Municipal corporations)",
+   "url": "https://www.azleg.gov/constitution/?article=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 7,
+     "source_url": "https://www.azleg.gov/constitution/?article=13",
+     "sha256": "50a2802407dee326d10b83def192050ef344d465bc961f9cedda1900023763d9"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-14",
+   "short": "Ariz. Const. art. 14",
+   "title": "Constitution of the State of Arizona, Article 14 (Corporations other than municipal)",
+   "url": "https://www.azleg.gov/constitution/?article=14",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 19,
+     "source_url": "https://www.azleg.gov/constitution/?article=14",
+     "sha256": "5c8b7eb7dc578fc327d7e3606f4feff2ad28cb64a70fc2bcdd4665c2d20037ed"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-15",
+   "short": "Ariz. Const. art. 15",
+   "title": "Constitution of the State of Arizona, Article 15 (The corporation commission)",
+   "url": "https://www.azleg.gov/constitution/?article=15",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 18,
+     "source_url": "https://www.azleg.gov/constitution/?article=15",
+     "sha256": "24a45ffdffbe99a66c952c669a0b9d059bff2bb29e515f99e6d96bea3f30c157"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-16",
+   "short": "Ariz. Const. art. 16",
+   "title": "Constitution of the State of Arizona, Article 16 (Militia)",
+   "url": "https://www.azleg.gov/constitution/?article=16",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.azleg.gov/constitution/?article=16",
+     "sha256": "e8eedb56b072eb0122cf23f510bb66b595b010be363bbebca6a0be0c6088d752"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-17",
+   "short": "Ariz. Const. art. 17",
+   "title": "Constitution of the State of Arizona, Article 17 (Water rights)",
+   "url": "https://www.azleg.gov/constitution/?article=17",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.azleg.gov/constitution/?article=17",
+     "sha256": "90990c46513450131490d5d89f6f892df2fc91a77402b1fb03b63b77afce5c76"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-18",
+   "short": "Ariz. Const. art. 18",
+   "title": "Constitution of the State of Arizona, Article 18 (Labor)",
+   "url": "https://www.azleg.gov/constitution/?article=18",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 10,
+     "source_url": "https://www.azleg.gov/constitution/?article=18",
+     "sha256": "877f6687da7e1e7933e8fe42f3906ff033aee8479bb7ad70a664500704b974bd"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-19",
+   "short": "Ariz. Const. art. 19",
+   "title": "Constitution of the State of Arizona, Article 19 (Mines)",
+   "url": "https://www.azleg.gov/constitution/?article=19",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.azleg.gov/constitution/?article=19",
+     "sha256": "59b440e86e7a69f7cab997ea0ddb2d884b04475eb779da3bf7f59b311b90b11a"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-20",
+   "short": "Ariz. Const. art. 20",
+   "title": "Constitution of the State of Arizona, Article 20 (Ordinance)",
+   "url": "https://www.azleg.gov/constitution/?article=20",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 11,
+     "source_url": "https://www.azleg.gov/constitution/?article=20",
+     "sha256": "8222a647460b1b8c35ac3bd6c980da3b5ab738ab7ef14b22043bf54a91cf99cb"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-21",
+   "short": "Ariz. Const. art. 21",
+   "title": "Constitution of the State of Arizona, Article 21 (Mode of amending)",
+   "url": "https://www.azleg.gov/constitution/?article=21",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.azleg.gov/constitution/?article=21",
+     "sha256": "37984f3078ad1306ad5c5d5c9958b0cbfd7460c507ec63323c445b0bc62acd26"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-22",
+   "short": "Ariz. Const. art. 22",
+   "title": "Constitution of the State of Arizona, Article 22 (Schedule and miscellaneous)",
+   "url": "https://www.azleg.gov/constitution/?article=22",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 22,
+     "source_url": "https://www.azleg.gov/constitution/?article=22",
+     "sha256": "ce4ffc6b0cb0f6dcd805577b3ea64d45765d82ca29bf832aa57f654126c41cf2"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-25",
+   "short": "Ariz. Const. art. 25",
+   "title": "Constitution of the State of Arizona, Article 25 (Right to work)",
+   "url": "https://www.azleg.gov/constitution/?article=25",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.azleg.gov/constitution/?article=25",
+     "sha256": "1a5bfe75ba68ae0d6c647088f1420338706b8f453a87e33f43c157b8cb7ac7e5"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-26",
+   "short": "Ariz. Const. art. 26",
+   "title": "Constitution of the State of Arizona, Article 26 (Right of licensed real estate brokers and salesmen to prepare instruments incident to property transactions)",
+   "url": "https://www.azleg.gov/constitution/?article=26",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.azleg.gov/constitution/?article=26",
+     "sha256": "27a811c25d598e0db74e90f9c0a6dc5b1c65d1e750d242d93fd6a632a8cc89f6"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-27",
+   "short": "Ariz. Const. art. 27",
+   "title": "Constitution of the State of Arizona, Article 27 (Regulation of health, safety and welfare)",
+   "url": "https://www.azleg.gov/constitution/?article=27",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.azleg.gov/constitution/?article=27",
+     "sha256": "47024248777873cc2817dcd83794b38af4d59b9340ed9a2c0117178857646de2"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-28",
+   "short": "Ariz. Const. art. 28",
+   "title": "Constitution of the State of Arizona, Article 28 (English as the official language)",
+   "url": "https://www.azleg.gov/constitution/?article=28",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.azleg.gov/constitution/?article=28",
+     "sha256": "8d37b35d040eba829f30e4fae48d1387cd27cc388c04262ece948f563ebf503e"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-29",
+   "short": "Ariz. Const. art. 29",
+   "title": "Constitution of the State of Arizona, Article 29 (Public retirement systems)",
+   "url": "https://www.azleg.gov/constitution/?article=29",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.azleg.gov/constitution/?article=29",
+     "sha256": "654dda5d2f6ecbda168ce24c4950e57ac760befff907c9dda84a66b68b57502c"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-30",
+   "short": "Ariz. Const. art. 30",
+   "title": "Constitution of the State of Arizona, Article 30 (Marriage)",
+   "url": "https://www.azleg.gov/constitution/?article=30",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.azleg.gov/constitution/?article=30",
+     "sha256": "bb970e4c26cf43524cdfa54bcf030bf7f9ccd0823e218192928468276b93ded1"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-01",
+   "short": "A.R.S. Title 13, ch. 1",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 1 (General provisions)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 22,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "34f6b048e10d9b092d937e85f4cb76df842efa5a147b3a5c29dbe8ac9286eaca"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-02",
+   "short": "A.R.S. Title 13, ch. 2",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 2 (General principles of criminal liability)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "b92280be3e7272d4e6c74b83c451c03ce6eeb7bb0d187fdcbf948d27b9c1ff26"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-03",
+   "short": "A.R.S. Title 13, ch. 3",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 3 (Parties to offenses: accountability)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "684684a89bb2138f6eef46d3dc640017250956f1df67368a64008dbe969ea98d"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-04",
+   "short": "A.R.S. Title 13, ch. 4",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 4 (Justification)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 21,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "a484dcc43f4d1fa8ce1b2cffffa6ab44b6abd417d045c84719062fcf67264a0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-05",
+   "short": "A.R.S. Title 13, ch. 5",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 5 (Responsibility)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "7501d46f322d6d073594780d4bc6a1956ef1c1e217ba2bd752166c8e7d5c7d8d"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-06",
+   "short": "A.R.S. Title 13, ch. 6",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 6 (Classifications of offenses and authorized dispositions of offenders)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 11,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "b1f91539f80f6695c0657ae3b1f00b583d2ea5a27240a06638650fe663d9e170"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-07",
+   "short": "A.R.S. Title 13, ch. 7",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 7 (Sentencing and imprisonment)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 21,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "fa7c8f803ade900881e3c98f383791194b3563757719d54058b8e364251113ae"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-07-1",
+   "short": "A.R.S. Title 13, ch. 7.1",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 7.1 (Capital sentencing)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "a51137e40d2c32a088854a9726abfd84c0cc8b069a387aea64df2a2f5a0ecced"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-08",
+   "short": "A.R.S. Title 13, ch. 8",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 8 (Restitution and fines)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 26,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "206fb544dffed2a2b2a453c68dd274a07732964ae408ae36bdccefe822098c8f"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-09",
+   "short": "A.R.S. Title 13, ch. 9",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 9 (Probation and restoration of civil rights)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 27,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "95db135f3f6b3b5aaa47d46ff8615ca1a022e12d8f9e06f505e330977ff22e16"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-10",
+   "short": "A.R.S. Title 13, ch. 10",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 10 (Preparatory offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "19a76aa6515f7d844c66317fab5a642e11da727604939e7552a6b6f7a60a1e37"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-11",
+   "short": "A.R.S. Title 13, ch. 11",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 11 (Homicide)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "edf3c520e035bc676a57bf264613eb8700b89f962a9511d6c5bc15e36ac2ea0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-12",
+   "short": "A.R.S. Title 13, ch. 12",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 12 (Assault and related offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 17,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "d944e4fd868e0a5220a3ff4e3f00ba844e470ece7a145a120a86edb9a3b9c0ae"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-13",
+   "short": "A.R.S. Title 13, ch. 13",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 13 (Kidnapping and related offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 10,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "92d9202b4abd9870e46c430e7c7e1810a58c1d4103b0f2186a7c0bc630c4def6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-14",
+   "short": "A.R.S. Title 13, ch. 14",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 14 (Sexual offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 30,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "58bc59a73c7c442a4f66133aca44fe01de9e66a684cff3967f8d29f5d6a7630e"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-15",
+   "short": "A.R.S. Title 13, ch. 15",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 15 (Criminal trespass and burglary)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "908ecdadb5001ff7673f4551a0c3c8d2df5902afd2b77e37ea86f1e0b6ef7cdf"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-16",
+   "short": "A.R.S. Title 13, ch. 16",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 16 (Criminal damage to property)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "70442181e90cc1121c81dcc3a73813d1d02ecda08b1196785cef967842ca843e"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-17",
+   "short": "A.R.S. Title 13, ch. 17",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 17 (Arson)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "f9439c8e8d3de74fb8db7a4df03b97c14377fade39303e11072a36e4836f027c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-18",
+   "short": "A.R.S. Title 13, ch. 18",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 18 (Theft)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 20,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "68c620b8a9c4aea12ff3eeddd0b18db2efafade808cb8e999cd095bfa3c61518"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-19",
+   "short": "A.R.S. Title 13, ch. 19",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 19 (Robbery)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "3da32e50d546e994ed8b25c5a61eb330645d68483ebe00847212684db05a07cc"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-20",
+   "short": "A.R.S. Title 13, ch. 20",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 20 (Forgery and related offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 11,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "ffbab79ff442a69f5466a38c507c3e9654273a3a3c7a4ede8fb6b2c073ffe656"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-21",
+   "short": "A.R.S. Title 13, ch. 21",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 21 (Credit card fraud)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 10,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "e4cdeb0024771f86b988ad9d0162a21c9ce5f22b93a9522d7246422e67cb429f"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-22",
+   "short": "A.R.S. Title 13, ch. 22",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 22 (Business and commercial frauds)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 8,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "dc7f70e9048f9fc284b4f2ac0e6ccd6f4f3978dbb2bebe060c051a5e797345bc"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-23",
+   "short": "A.R.S. Title 13, ch. 23",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 23 (Organized crime, fraud and terrorism)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 32,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "548f97c3128b9a11413e23ab0d6f4c4292fd692e26079b6209b148966e7fb2b1"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-24",
+   "short": "A.R.S. Title 13, ch. 24",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 24 (Obstruction of public administration)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 14,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "ad20cb157a0c676dd378459e8a4088addc713ad3ae73e9e97d52e869da880274"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-25",
+   "short": "A.R.S. Title 13, ch. 25",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 25 (Escape and related offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 14,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "8aa4c3358b37893cdd6051c9a49df6ef51321c1ed168a3bb7035b81b96914693"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-26",
+   "short": "A.R.S. Title 13, ch. 26",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 26 (Bribery)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "77f8e98ae0864373a42dde54b651ed9c8da2203c6a74b0f7a9d7006bebe13707"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-27",
+   "short": "A.R.S. Title 13, ch. 27",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 27 (Perjury and related offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 7,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "508a017bac7dafe6f30fe82a048b8b9e8962bf95b8cc50292f1f62494aaab63c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-28",
+   "short": "A.R.S. Title 13, ch. 28",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 28 (Interference with judicial and other proceedings)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 13,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "b67a49378a1d6f8880a8d6c42240a17e289d9ba2cc679bcb9ec0ce9dea3dd001"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-29",
+   "short": "A.R.S. Title 13, ch. 29",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 29 (Offenses against public order)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 48,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "482f5be8bc84375e6691257c3a923966d89bfa5e80dfb0e20d30864ba2d509f8"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-30",
+   "short": "A.R.S. Title 13, ch. 30",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 30 (Eavesdropping and communications)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 18,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "ec10a78dc82b631132b4c40d6aae1ad70a11cdb92f53651e38f7c248d9d5d1e4"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-31",
+   "short": "A.R.S. Title 13, ch. 31",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 31 (Weapons and explosives)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 23,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "5308568af11cb3af072246e3149be29660c4af2100b96f991b0be087d44cca28"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-32",
+   "short": "A.R.S. Title 13, ch. 32",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 32 (Prostitution)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 13,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "3c83cad27b49f220cc7fc3368585f2bbc3c885dc8d67fc03594a3a6e105cc4cc"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-33",
+   "short": "A.R.S. Title 13, ch. 33",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 33 (Gambling)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 12,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "6d8a4b51baed61f15964424261e242cf36e2dc596be513e2b991a0f298880324"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-34",
+   "short": "A.R.S. Title 13, ch. 34",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 34 (Drug offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 29,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "2b2cd0852ae1d9832e928c1935b36b64daf69a6324c47b1a496f2389f33faba3"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-34-1",
+   "short": "A.R.S. Title 13, ch. 34.1",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 34.1 (Imitation substance or drug offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 11,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "f34c72e68b76842f9dab6cfea70c75cd7ac4e689a35d5e32f44541418c1b7234"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-35",
+   "short": "A.R.S. Title 13, ch. 35",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 35 (Obscenity)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 13,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "0257894705f8937f4f2e2c8470898b9986f22b670d5faf9727de20ab731da1e1"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-35-1",
+   "short": "A.R.S. Title 13, ch. 35.1",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 35.1 (Sexual exploitation of children)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 12,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "f2bbf3031fe994a2797710d8ecbf9d76461a0a868fdea42154791ac4ef8914fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-36",
+   "short": "A.R.S. Title 13, ch. 36",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 36 (Family offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 29,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "1f2b0a5d44ee383090acb7f0da756bcb657504d6373913905eede0e456728642"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-37",
+   "short": "A.R.S. Title 13, ch. 37",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 37 (Miscellaneous offenses)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 34,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "af12e0741fe3804bb2add6ea25bd3ebfefc9da701e9a31865263e2028aca4e94"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-38",
+   "short": "A.R.S. Title 13, ch. 38",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 38 (Miscellaneous)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 264,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "d014ce2442468e4d5334ae36869a11c4ebfb2450610170245cc6b809df4b68c3"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-39",
+   "short": "A.R.S. Title 13, ch. 39",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 39 (Forfeiture)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 15,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "eb554b548a93b4a813ecf1cfb2898a46521febed022edc473cb4ee7e073213a2"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-40",
+   "short": "A.R.S. Title 13, ch. 40",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 40 (Crime victims' rights)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 48,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "bf783811a40e83f03d43d1d4b56e0c323fbba328c36ab38d92a4148aab2f9759"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-41",
+   "short": "A.R.S. Title 13, ch. 41",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 41 (Incompetence to stand trial)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 22,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "24e2a1ce9d43a1d3b7ce846a47db62872ef69034683181618b5a71e0626f3c70"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-43",
+   "short": "A.R.S. Title 13, ch. 43",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 43 (Motor vehicle chop shops)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 3,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "457014d8e18e096f3f89fa0ecbb28a676207a8832423b7bbb90877f3b61ac783"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-44",
+   "short": "A.R.S. Title 13, ch. 44",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 44 (Wireless telephone counterfeiting)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 2,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "b74b15f1e58af63d9a0c1905de3658c07d4cbc64f5c1474887893c27a7542ec9"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-45",
+   "short": "A.R.S. Title 13, ch. 45",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 45 (Commercial nuclear generating station security)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 4,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "002ab20b5c98a3f401d9a511f5adbc38909c3230f64b7d0e0ac391274dea9029"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-chapter-46",
+   "short": "A.R.S. Title 13, ch. 46",
+   "title": "Arizona Revised Statutes, Title 13 (Criminal Code), Chapter 46 (Military reservations and facilities security)",
+   "url": "https://www.azleg.gov/arsDetail/?title=13",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 2,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=13",
+     "sha256": "b9e12a80656a9940fa2bbbe9429db143162eb18c78ca8ad1e9347045ac6d120c"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-01",
+   "short": "A.R.S. Title 33, ch. 1",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 1 (Landmarks and surveys)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 14,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "f055745ace316877a4980f729c14e90e54376194d47f0c50d208f7a189ec7078"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-02",
+   "short": "A.R.S. Title 33, ch. 2",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 2 (Estates)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 27,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "515c647af4c1aff559f2b2c7b5c546b908c4fe450648eaa74ace7e614b321d2f"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-03",
+   "short": "A.R.S. Title 33, ch. 3",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 3 (Landlord and tenant)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 13,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "6fe52111119a784fe5ac81269ca5b8f0495ab0e2caac92153d79542be7fe7224"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-04",
+   "short": "A.R.S. Title 33, ch. 4",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 4 (Conveyances and deeds)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 56,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "4817d2362dd13030720387f4529ad9160830c6a4c85c0cfc878df846ba581972"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-05",
+   "short": "A.R.S. Title 33, ch. 5",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 5 (Gifts)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 1,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "c79b40164b2e1c427e51de3596b0c6a71a5087ff3231f26cb06d588fb0e7a0e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-06",
+   "short": "A.R.S. Title 33, ch. 6",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 6 (Mortgages)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 35,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "5ceace4423e7130cb0ee28760299e503475b81706dc5864e1be2ff7880e4c88f"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-06-1",
+   "short": "A.R.S. Title 33, ch. 6.1",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 6.1 (Deeds of trust)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 23,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "555e67e8bc387563803f66664296134963fce8a1db8e59046d60079f87303d0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-07",
+   "short": "A.R.S. Title 33, ch. 7",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 7 (Liens)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 89,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "f87607d1e35a789ac85aeff5072bd3997de24e979c4c349796b0a4655d6d7476"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-chapter-08",
+   "short": "A.R.S. Title 33, ch. 8",
+   "title": "Arizona Revised Statutes, Title 33 (Property), Chapter 8 (Homestead and personal property exemption)",
+   "url": "https://www.azleg.gov/arsDetail/?title=33",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 22,
+     "source_url": "https://www.azleg.gov/arsDetail/?title=33",
+     "sha256": "444e797024e72e36a198230109cd70088bc8911f66a19ef59680fdcaf2edc1d0"
+    }
+   ]
+  }
+ ]
+}

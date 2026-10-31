@@ -1,0 +1,39 @@
+{
+  "corpus": "us/arizona/statutes",
+  "parent": "us/federal/usc",
+  "name": "Constitution of the State of Arizona and the Arizona Revised Statutes",
+  "label": "Arizona statutes",
+  "language": "en",
+  "history": "current-only",
+  "history_from": "2026-10-30",
+  "record_to": "2026-10-31",
+  "record_note": "The Arizona Legislature publishes only the current text of each section, with no earlier versions or history notes, so each act has one version here: the text as retrieved on the day given in the table of README.md. The online compilation includes the 2026 session and reflects the law effective on January 1 following the most recent session.",
+  "built": "2026-10-31",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": {
+    "consolidated": "Arizona Legislature",
+    "amendment": "none yet",
+    "unexplained": "Arizona Legislature"
+  },
+  "dates": {
+    "commit": "the day the text was retrieved",
+    "time": "12:00 America/Phoenix (UTC-7, no daylight saving time)"
+  },
+  "scope": {
+    "when_absent": "not extracted; effective-date provisions are in the session laws",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "meaning": "no statute is retroactive unless expressly declared therein",
+      "authority": "A.R.S. § 1-244 (\"No statute is retroactive unless expressly declared therein.\")",
+      "decided_here": false
+    }
+  },
+  "reuse": "The text of the law carries no copyright: under the government edicts doctrine (Georgia v. Public.Resource.Org, Inc., 590 U.S. 255 (2020)) nobody owns works made by legislators in their official capacity, which covers the statutes and the Constitution the Arizona Legislature publishes.",
+  "citation": {
+    "file": "(title-[0-9]+-chapter-[0-9a-z-]+)/([0-9]+-[0-9]+)\\.md",
+    "cites": "(§§ ?|§ ?|[Ss]ections? |A[.]R[.]S[.] ){n}([^0-9.]|[.]([^0-9]|$)|$)",
+    "note": "files are title-<n>-chapter-<NN>/<section>.md, the section number as cited (A.R.S. § 13-1105 is title-13-chapter-11/13-1105.md); decimal sections (13-3875.01 -> 13-3875-01.md) and the Constitution (constitution-article-NN/section-NN.md) are not matched by this rule."
+  },
+  "tool": "tools/az.py"
+}
