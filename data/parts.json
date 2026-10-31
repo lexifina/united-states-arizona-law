@@ -1,0 +1,152 @@
+{
+ "parts": {
+  "10-constitution.json": {
+   "acts": [
+    "constitution-article-01",
+    "constitution-article-02",
+    "constitution-article-03",
+    "constitution-article-04",
+    "constitution-article-05",
+    "constitution-article-06",
+    "constitution-article-06-1",
+    "constitution-article-07",
+    "constitution-article-08",
+    "constitution-article-09",
+    "constitution-article-10",
+    "constitution-article-11",
+    "constitution-article-12",
+    "constitution-article-13",
+    "constitution-article-14",
+    "constitution-article-15",
+    "constitution-article-16",
+    "constitution-article-17",
+    "constitution-article-18",
+    "constitution-article-19",
+    "constitution-article-20",
+    "constitution-article-21",
+    "constitution-article-22",
+    "constitution-article-25",
+    "constitution-article-26",
+    "constitution-article-27",
+    "constitution-article-28",
+    "constitution-article-29",
+    "constitution-article-30",
+    "constitution-preamble"
+   ],
+   "sha256": "8c8c4eeb7f30f91f68f4f5fb852c40b77ab680e6fac10b90c4bcb9c224833798"
+  },
+  "20-title-13-batch-01.json": {
+   "acts": [
+    "title-13-chapter-01",
+    "title-13-chapter-02",
+    "title-13-chapter-03",
+    "title-13-chapter-04",
+    "title-13-chapter-05",
+    "title-13-chapter-06",
+    "title-13-chapter-07",
+    "title-13-chapter-07-1",
+    "title-13-chapter-08",
+    "title-13-chapter-09",
+    "title-13-chapter-10",
+    "title-13-chapter-11",
+    "title-13-chapter-12",
+    "title-13-chapter-13",
+    "title-13-chapter-14",
+    "title-13-chapter-15",
+    "title-13-chapter-16",
+    "title-13-chapter-17",
+    "title-13-chapter-18",
+    "title-13-chapter-19",
+    "title-13-chapter-20",
+    "title-13-chapter-21",
+    "title-13-chapter-22",
+    "title-13-chapter-23",
+    "title-13-chapter-24",
+    "title-13-chapter-25",
+    "title-13-chapter-26"
+   ],
+   "sha256": "19dd5789c3c8a2cafb8d34eca8d849442e3bfaaa8134796701fd6e40adc40651"
+  },
+  "20-title-13-batch-02.json": {
+   "acts": [
+    "title-13-chapter-27"
+   ],
+   "sha256": "fb24b81433240724d4fb74dd62725cb2a3be09335ea1fc7220bb9860831d62fa"
+  },
+  "20-title-13-batch-03.json": {
+   "acts": [
+    "title-13-chapter-28",
+    "title-13-chapter-29",
+    "title-13-chapter-30",
+    "title-13-chapter-31",
+    "title-13-chapter-32"
+   ],
+   "sha256": "2695d2fe8f46c095c5f1719e7017d607d4bdab887ef57cb6d26548853fa76239"
+  },
+  "20-title-13-batch-04.json": {
+   "acts": [
+    "title-13-chapter-33",
+    "title-13-chapter-34",
+    "title-13-chapter-34-1",
+    "title-13-chapter-35",
+    "title-13-chapter-35-1"
+   ],
+   "sha256": "db62192d7a4332a82df6f83c0aaa822ed22041aa6fe96d9907c497b8fa6f2e58"
+  },
+  "20-title-13-batch-05.json": {
+   "acts": [
+    "title-13-chapter-36",
+    "title-13-chapter-37"
+   ],
+   "sha256": "f4ee490300baf6ac500005ff46d5149358b2b9b50c3857690b998bd8c6e58769"
+  },
+  "20-title-13-batch-06.json": {
+   "acts": [
+    "title-13-chapter-38",
+    "title-13-chapter-39",
+    "title-13-chapter-40",
+    "title-13-chapter-41",
+    "title-13-chapter-43",
+    "title-13-chapter-44",
+    "title-13-chapter-45",
+    "title-13-chapter-46"
+   ],
+   "sha256": "1197c2d1525c62e75f89c975260d3791eac6b2272825224e4c451b8fbbc9f430"
+  },
+  "30-title-33-batch-01.json": {
+   "acts": [
+    "title-33-chapter-01",
+    "title-33-chapter-02",
+    "title-33-chapter-03",
+    "title-33-chapter-04",
+    "title-33-chapter-05"
+   ],
+   "sha256": "c3e39dfcef401826ca7b9fb6ca2a82abb16f7540d8c385fa4e4d3f4a9849f92a"
+  },
+  "30-title-33-batch-02.json": {
+   "acts": [
+    "title-33-chapter-06"
+   ],
+   "sha256": "b79e38d56cdd662173d11fbf8cbf0daa59177d4b61993041cfefd42883e0af43"
+  },
+  "30-title-33-batch-03.json": {
+   "acts": [
+    "title-33-chapter-06-1"
+   ],
+   "sha256": "af939dc7d699a6e8ea546868d3deea8803de94f9a6a3843e4136a16b8ea86c4b"
+  },
+  "30-title-33-batch-04.json": {
+   "acts": [
+    "title-33-chapter-07"
+   ],
+   "sha256": "cb673228abb4909f2ce70ee2aa5305614345a87579c602c7388cb515510ffd04"
+  },
+  "30-title-33-batch-05.json": {
+   "acts": [
+    "title-33-chapter-08"
+   ],
+   "sha256": "8734451935d857d211011459032f1ba255edbdb3a4c2ca90856d7d5b649b5f6e"
+  }
+ },
+ "schema": 1
+}
