@@ -1,0 +1,9 @@
+# 32-705. Board of accountancy fund; disposition of monies
+(L24, Ch. 222, sec. 6. Eff. 7/1/28)
+A. The board of accountancy fund is established consisting of fees authorized by this chapter. Except as provided by subsection C of this section, the board shall deposit, pursuant to sections 35-146 and 35-147, ninety percent of all monies collected under this chapter in the board of accountancy fund and the remaining ten percent in the state general fund.
+B. Monies deposited in the fund are subject to section 35-143.01.
+C. Monies collected by the board as administrative penalties pursuant to this chapter shall be deposited, pursuant to sections 35-146 and 35-147, in the state general fund.
+D. The legislature shall appropriate monies from the fund for the expenses of administering this chapter, including:
+1. Costs of conducting investigations, taking testimony and procuring the attendance of witnesses before the board or its committees.
+2. Legal proceedings taken to enforce this chapter.
+3. Educational programs to benefit the public, registrants and their employees.
