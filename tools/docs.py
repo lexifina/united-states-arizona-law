@@ -57,6 +57,19 @@ def readme(c: dict, today: str) -> str:
             last = mine[-1]['short'].rsplit('ch. ', 1)[1]
             partial.append(f'Title {t} is partial: chapters up to {last} ({len(mine)} of the {total} chapters that '
                            f'print sections) are here; the rest are added, in order, as they are retrieved.')
+    nf = HERE / 'sources-not-found.json'
+    gone = json.loads(nf.read_text(encoding='utf-8')) if nf.exists() else []
+    if gone:
+        import re
+        secs = [re.sub(r'^0+', '', u['url'].rsplit('/', 1)[1][:-4]) for u in gone]
+        names = [f"§ {u['url'].split('/ars/')[1].split('/')[0]}-{s}" for u, s in zip(gone, secs)]
+        partial.append("The Legislature's index lists " f'{len(gone)} section page{"s" if len(gone) > 1 else ""} that '
+                       f'answered 404 Not Found when retrieved, so {"they have" if len(gone) > 1 else "it has"} no file '
+                       f'here: {", ".join(names)} (`tools/sources-not-found.json`).')
+    hd = HERE / 'sources-heading-differs.json'
+    for r in (json.loads(hd.read_text(encoding='utf-8')) if hd.exists() else []):
+        partial.append(f"The index lists {r['url']} as § {r['listed']}, but the page prints a text headed § {r['printed']}; "
+                       f"it is kept as printed in the file for § {r['listed']} (`tools/sources-heading-differs.json`).")
     ex_sec = '13-1105' if any(a['slug'].startswith('title-13-') and '13-1105' in a['versions'][0]['units']
                               for a in titles) else None
     q = ['| Question | Command |', '| --- | --- |']
@@ -69,6 +82,8 @@ def readme(c: dict, today: str) -> str:
               '| Every change to a section (after later builds) | `git log -p -- constitution-article-02/section-04.md` |']
     q += ['| Who is credited for each line | `git blame <file>` |']
     return f'''# Arizona law, as a git repository
+
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Arizona, United States, which global-law reads at `united-states/arizona/acts/`.
 
 The Constitution of the State of Arizona and titles of the Arizona Revised Statutes (A.R.S.), one file per section,
 as a git history. The source is the text the Arizona Legislature publishes at [azleg.gov](https://www.azleg.gov),

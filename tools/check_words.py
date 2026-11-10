@@ -30,6 +30,9 @@ def file_for(url: str) -> str | None:
     if m:
         ver = f'-version-{int(m.group(5)) + 1}' if m.group(5) else ''
         return f'title-{m.group(1)}/{m.group(1)}-{m.group(2)}{m.group(3)}{m.group(4).lower()}{ver}.md'
+    m = re.search(r'/ars/(\d+)/(\d+[A-Za-z]\d+)\.htm$', url)          # U.C.C. 47-2A101 -> 47-2a101.md
+    if m:
+        return f'title-{m.group(1)}/{m.group(1)}-{m.group(2).lower()}.md'
     if url.endswith('/const/preamble.htm'):
         return 'constitution-preamble/preamble.md'
     m = re.search(r'/const/(\d+)((?:\.\d+)?)/(\d+)((?:_\d+)*)([A-Za-z]?)(?:\.p(\d+)|\.(\d+))?\.htm$', url)

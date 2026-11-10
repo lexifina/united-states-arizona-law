@@ -1,0 +1,11 @@
+# Arizona Revised Statutes, Title 41 (State Government), Chapter 48 (Private attorney retention)
+
+A.R.S. Title 41, ch. 48 · 1 versions, from 2026-11-10 (latest in force: 2026-11-10) · <https://www.azleg.gov/arsDetail/?title=41>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| A.R.S. § 41-4801 | [41-4801.md](41-4801.md) | 0 |  |
+| A.R.S. § 41-4802 | [41-4802.md](41-4802.md) | 0 |  |
+| A.R.S. § 41-4803 | [41-4803.md](41-4803.md) | 0 |  |
+| A.R.S. § 41-4804 | [41-4804.md](41-4804.md) | 0 |  |
+| A.R.S. § 41-4805 | [41-4805.md](41-4805.md) | 0 |  |

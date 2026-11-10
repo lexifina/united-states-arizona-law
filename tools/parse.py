@@ -27,6 +27,22 @@ PENDING = HERE / '.pending'       # working copies of the lists, for parts not y
 BASE = 'https://www.azleg.gov'
 ORDER = ['constitution', 'title-13', 'title-33', 'title-10']
 TITLES = {'13': 'Criminal Code', '33': 'Property', '10': 'Corporations and Associations'}
+RANKS = {'13': 20, '33': 30, '10': 40}
+
+
+def rank(t: str) -> int:
+    """The file-name prefix of a title's parts in corpus.d (only orders the files; commits sort by day and folder)."""
+    return RANKS.get(t, 500 + int(t))
+
+
+def title_name(t: str, idx: bytes) -> str:
+    """The title's heading, as its index page prints it: <h1>Title 1 - General Provisions</h1>."""
+    if t in TITLES:
+        return TITLES[t]
+    m = re.search(rf'<h1[^>]*>\s*Title {t} - ([^<]+)</h1>'.encode(), idx)
+    if not m:
+        raise SystemExit(f'title {t}: no heading on the index page')
+    return norm(html.unescape(m.group(1).decode()))
 
 
 def page(url: str) -> bytes | None:
@@ -35,6 +51,11 @@ def page(url: str) -> bytes | None:
         return p.read_bytes()
     r = p.with_suffix('.redirect')
     return page(r.read_text()) if r.exists() else None
+
+
+def not_found(url: str) -> bool:
+    """The index lists the page, but the site answered 404 Not Found when it was requested (kept as a marker)."""
+    return (PAGES / hashlib.sha256(url.encode()).hexdigest()).with_suffix('.404').exists()
 
 
 # ---------------------------------------------------------------- HTML -> lines
@@ -116,7 +137,7 @@ def lines_of(raw: bytes) -> list[str]:
 
 def section_key(num: str) -> str:
     """The file name of a section, as cited: 13-101 -> 13-101; 13-3875.01 -> 13-3875-01 (no dots in file names)."""
-    if not re.fullmatch(r'\d+-\d+(?:\.\d+)*[A-Z]?', num):
+    if not re.fullmatch(r'\d+-\d+(?:[A-Z]\d+)?(?:\.\d+)*[A-Z]?', num):     # 47-2A101: U.C.C. articles 2A, 4A
         raise SystemExit(f'unexpected section number {num}')
     return num.replace('.', '-').lower()
 
@@ -127,8 +148,9 @@ def unit_text(lines: list[str]) -> str:
 
 def chapter_slug(t: str, ch: str) -> str:
     """Title 13, chapter 7.1 -> title-13-chapter-07-1 (zero-padded, so folders sort in chapter order)."""
-    a = ch.split('.')
-    return f'title-{t}-chapter-{int(a[0]):02d}' + ''.join(f'-{x}' for x in a[1:])
+    m = re.fullmatch(r'(\d+)([A-Z]?)((?:\.\d+)*)', ch)          # 2A (U.C.C. leases) -> chapter-02a
+    return (f'title-{t}-chapter-{int(m.group(1)):02d}{m.group(2).lower()}'
+            + ''.join(f'-{x}' for x in m.group(3).split('.') if x))
 
 
 def title_acts(t: str, read: list[dict], only_complete_prefix: bool) -> list[dict]:
@@ -141,21 +163,25 @@ def title_acts(t: str, read: list[dict], only_complete_prefix: bool) -> list[dic
         raise SystemExit(f'title {t}: index page not retrieved')
     read.append({'url': idx_url, 'sha256': hashlib.sha256(idx).hexdigest()})
     blocks = re.split(rb'<div id="chapter[^"]*" class="accordion">', idx)[1:]
+    tname = title_name(t, idx)
     acts = []
     for b in blocks:
-        m = re.search(rb'>Chapter ([0-9.]+)</a><div class="two-thirds">([^<]*)</div>', b)
+        m = re.search(rb'>Chapter ([0-9]+[A-Z]?(?:\.[0-9]+)*)</a><div class="two-thirds">([^<]*)</div>', b)
         if not m:
             raise SystemExit(f'title {t}: a chapter block without a heading')
         ch, name = m.group(1).decode(), norm(html.unescape(m.group(2).decode()))
         urls = list(dict.fromkeys(re.findall(rf'https://www\.azleg\.gov/ars/{t}/[0-9A-Za-z_.\-]+\.htm'.encode(), b)))
         if not urls:
             continue                     # a chapter the index lists with no section of its own (repealed)
+        # A page the index lists but the site answered 404 for: no file (README lists it, from not-found.json)
+        gone = [u.decode() for u in urls if not_found(u.decode())]
+        urls = [u for u in urls if u.decode() not in gone]
         if any(page(u.decode()) is None for u in urls):
             if only_complete_prefix:
                 break
             if os.environ.get('AZ_ALLOW_PARTIAL') != '1':
                 raise SystemExit(f'title {t} chapter {ch}: section pages not retrieved yet')
-        units, pages = {}, [hashlib.sha256(idx).hexdigest()]
+        units, pages, odd = {}, [hashlib.sha256(idx).hexdigest()], []
         start = len(read)
         for u in (x.decode() for x in urls):
             raw = page(u)
@@ -164,12 +190,19 @@ def title_acts(t: str, read: list[dict], only_complete_prefix: bool) -> list[dic
             read.append({'url': u, 'sha256': hashlib.sha256(raw).hexdigest()})
             pages.append(read[-1]['sha256'])
             ls = lines_of(raw)
-            mm = re.match(r'(\d+-\d+(?:\.\d+)*[A-Z]?)\.\s*(.*)', ls[0]) if ls else None
+            mm = re.match(r'(\d+-\d+(?:[A-Z]\d+)?(?:\.\d+)*[A-Z]?)\.\s*(.*)', ls[0]) if ls else None
             if not mm:
                 raise SystemExit(f'{u}: no section heading: {ls[:1]}')
             num = mm.group(1)
-            key = section_key(num)
-            label = f'A.R.S. § {num}'
+            # The number the index and the page's address give it; where the page prints another section's heading
+            # (49-542.01's page holds a text of 49-542), the file follows the index and the label says so.
+            um = re.search(r'/ars/(\d+)/0*(\d+)((?:-\d+)*|[A-Z]\d+)(?:\.\d+)?\.htm$', u)
+            listed = f'{um.group(1)}-{um.group(2)}' + um.group(3).replace('-', '.') if um else num
+            key = section_key(listed)
+            label = f'A.R.S. § {listed}'
+            if listed != num:
+                label += f' (the page prints the heading of § {num})'
+                odd.append({'url': u, 'listed': listed, 'printed': num})
             v = re.search(r'/\d+(?:-\d+)*\.(\d+)\.htm$', u)
             if v:
                 # A second text of the section (the index lists it as "13-1204; Version 2", the page itself says
@@ -180,10 +213,10 @@ def title_acts(t: str, read: list[dict], only_complete_prefix: bool) -> list[dic
                 raise SystemExit(f'{u}: section {num} twice')
             units[key] = {'label': label, 'kind': 'section', 'text': unit_text(ls)}
         acts.append({'slug': chapter_slug(t, ch), 'short': f'A.R.S. Title {t}, ch. {ch}',
-                     'title': f'Arizona Revised Statutes, Title {t} ({TITLES[t]}), Chapter {ch} ({name.capitalize()})',
+                     'title': f'Arizona Revised Statutes, Title {t} ({tname}), Chapter {ch} ({name.capitalize()})',
                      'url': idx_url, 'first_law': None, 'earlier_laws': [], 'units': units, '_pages': pages,
                      '_read': [{'url': idx_url, 'sha256': pages[0]}] + read[start:],
-                     '_part': f'title-{t}-chapter-{ch}', '_of': len(blocks)})
+                     '_part': f'title-{t}-chapter-{ch}', '_of': len(blocks), '_gone': gone, '_odd': odd})
     return acts
 
 
@@ -327,12 +360,14 @@ def publish_lists(everything: bool) -> None:
     parts = sorted((HERE / 'corpus.d').glob('*.json'))
     if not everything:
         parts = [p for p in parts if p.with_suffix('.PUBLISH').exists()]
-    pages, slugs = {}, set()
+    pages, slugs, gone, odd = {}, set(), [], []
     for p in parts:
         d = json.loads(p.read_text(encoding='utf-8'))
         if 'pages' not in d:
             raise SystemExit(f'{p.name} has no page list')
         pages.update({r['url']: r for r in d['pages']})
+        gone += d.get('not_found', [])
+        odd += d.get('heading_differs', [])
         slugs |= {a['slug'] for a in d['acts']}
     src = PENDING / 'acts-retrieved.json'
     dated = json.loads(src.read_text(encoding='utf-8')) if src.exists() else {}
@@ -340,9 +375,11 @@ def publish_lists(everything: bool) -> None:
     def published(key: str) -> bool:
         if key == 'constitution':
             return any(s.startswith('constitution') for s in slugs)
-        m = re.fullmatch(r'title-(\d+)-chapter-([0-9.]+)', key)
+        m = re.fullmatch(r'title-(\d+)-chapter-([0-9A-Z.]+)', key)
         return bool(m) and chapter_slug(m.group(1), m.group(2)) in slugs
     write(HERE / 'sources-sha256.json', [pages[u] for u in sorted(pages)])
+    write(HERE / 'sources-not-found.json', sorted(gone, key=lambda r: r['url']))
+    write(HERE / 'sources-heading-differs.json', sorted(odd, key=lambda r: r['url']))
     shown = {k: v for k, v in sorted(dated.items()) if published(k)}
     write(HERE / 'acts-retrieved.json', shown)
     write_corpus_json(shown)
@@ -358,6 +395,8 @@ def main() -> None:
     ap.add_argument('--prefix', action='store_true',
                     help='for titles: a new batch of the chapters after the last batch, up to the first chapter not '
                          'fully retrieved (so the published record only grows at its end)')
+    ap.add_argument('--chapters', type=int, default=0,
+                    help='with --prefix: at most this many new chapters (a batch holds chapters of one retrieval day)')
     a = ap.parse_args()
     parts = HERE / 'corpus.d'
     parts.mkdir(exist_ok=True)
@@ -374,29 +413,37 @@ def main() -> None:
         got, out = constitution_acts(mine), parts / '10-constitution.json'
     else:
         t = name.split('-', 1)[1]
-        rank = {'13': 20, '33': 30, '10': 40}[t]
         done = set()
-        earlier = sorted(parts.glob(f'{rank}-title-{t}-batch-*.json'))
+        earlier = sorted(parts.glob(f'{rank(t)}-title-{t}-batch-*.json'))
         for p in earlier:
             done |= {x['slug'] for x in json.loads(p.read_text(encoding='utf-8'))['acts']}
         allc = title_acts(t, mine, only_complete_prefix=a.prefix)
         got = [x for x in allc if x['slug'] not in done]
+        if a.chapters:
+            got = got[:a.chapters]
         if a.prefix and not got:
             print(f'{name}: no new complete chapter after the {len(done)} already in batches')
             return
-        out = parts / f'{rank}-title-{t}-batch-{len(earlier) + 1:02d}.json'
+        out = parts / f'{rank(t)}-title-{t}-batch-{len(earlier) + 1:02d}.json'
         print(f'{name}: batch {out.name}: {len(got)} chapters ({got[0]["short"] if got else "-"} to '
               f'{got[-1]["short"] if got else "-"}), {len(done)} in earlier batches')
-    acts, used = [], []
+    acts, used, gone, odd = [], [], [], []
     for act in got:
         part = act.pop('_part', name)
         act.pop('_of', None)
+        gone += [{'url': u, 'chapter': act['slug']} for u in act.pop('_gone', [])]
+        odd += [{**r, 'chapter': act['slug']} for r in act.pop('_odd', [])]
         day = dated.setdefault(part, a.today)
         if day > a.today:
             raise SystemExit(f'{part} is dated {day}, after --today {a.today}')
         add(acts, act, day, used)
     pages = {r['url']: r for r in used}
-    print(out.name, 'sha256', write(out, {'acts': acts, 'pages': [pages[u] for u in sorted(pages)]}))
+    part = {'acts': acts, 'pages': [pages[u] for u in sorted(pages)]}
+    if gone:
+        part['not_found'] = gone
+    if odd:
+        part['heading_differs'] = odd
+    print(out.name, 'sha256', write(out, part))
     write(dated_path, dict(sorted(dated.items())))
 
 
