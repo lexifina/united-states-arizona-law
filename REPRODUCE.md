@@ -828,7 +828,7 @@ When a law gives no date of its own, the default rule applies: Ariz. Const. art.
 
 - Corpus: sha256 `ae99a9682c6cce231db9a33c09877239962a7e12b5dfcd9cf2118e013e30da50` (55892219 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
