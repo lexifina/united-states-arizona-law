@@ -1,5 +1,10 @@
 # Arizona law, as a git repository
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Arizona law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Arizona, United States, which global-law reads at `united-states/arizona/acts/`.
 
 The Constitution of the State of Arizona and titles of the Arizona Revised Statutes (A.R.S.), one file per section, as a git history. The source is the text the Arizona Legislature publishes at [azleg.gov](https://www.azleg.gov), maintained by the Arizona Legislative Council. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `us/arizona/statutes`.
